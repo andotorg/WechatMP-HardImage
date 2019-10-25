@@ -5,7 +5,7 @@
 
 ## 效果图
 
-[!img](img/1.jpg)
+![img](img/1.jpg)
 
 
-[!img](img/2.jpg)
+![img](img/2.jpg)
